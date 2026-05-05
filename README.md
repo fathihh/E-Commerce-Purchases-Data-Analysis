@@ -7,8 +7,6 @@ This project focuses on analyzing an e-commerce purchases dataset to uncover mea
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
 
 ## 📈 Key Highlights
 - Performed data preprocessing and handled missing values
